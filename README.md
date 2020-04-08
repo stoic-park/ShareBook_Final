@@ -35,8 +35,3 @@
 
 ## 기능 시연
 
-회원가입 및 로그인
-
-![signIn](https://user-images.githubusercontent.com/55645972/78765636-3865ca00-79c3-11ea-89a0-5af41d2a6e30.gif)
-![signUp](https://user-images.githubusercontent.com/55645972/78765644-3b60ba80-79c3-11ea-965a-40b59fa4023c.gif)
-
