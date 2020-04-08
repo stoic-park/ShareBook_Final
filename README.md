@@ -1,6 +1,9 @@
 # ShareBook_Final
 
 ## 1. Intro
+<img src="https://user-images.githubusercontent.com/55645972/78767385-7f54bf00-79c5-11ea-8e94-91810500297e.png"  width="200" height="200">
+
+출처: https://cutemoomin.tistory.com/112 [무민은귀여워]
 
 ### " 우리 집에 한 번 읽고, 읽지 않는 책들을 가까운 이웃들과 공유하는 건 어떨까?"
 
