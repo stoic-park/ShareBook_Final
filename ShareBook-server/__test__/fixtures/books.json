@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "test_book",
+    "publisher": "test_pub",
+    "writer": "test_writer",
+    "quelity": "test_quelity",
+    "description": "test_desc",
+    "image": "test_image",
+    "isRental": "대여 가능",
+    "bookRegion": "test_서울 관악구 봉천동",
+    "userOwnerId": 1
+  },
+  {
+    "id": 2,
+    "name": "test_book",
+    "publisher": "test_pub",
+    "writer": "test_writer",
+    "quelity": "test_quelity",
+    "description": "test_desc",
+    "image": "test_image",
+    "isRental": "대여 가능",
+    "bookRegion": "test_서울 강남구 서초동",
+    "userOwnerId": 1
+  }
+]

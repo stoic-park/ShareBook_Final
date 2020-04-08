@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "test_아이언맨",
+    "nickname": "test_빌런",
+    "email": "test_123@gmail.com",
+    "password": "test_password",
+    "gender": "test_남자",
+    "region": "test_서울 관악구 봉천동"
+  },
+  {
+    "id": 2,
+    "name": "test_헐크",
+    "nickname": "test_히어로",
+    "email": "test_1234@gmail.com",
+    "password": "test_password",
+    "gender": "test_남자",
+    "region": "test_서울 강남구 서초동"
+  }
+]
