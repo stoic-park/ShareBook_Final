@@ -34,11 +34,11 @@
 ![Untitled](https://user-images.githubusercontent.com/55645972/78765261-b8d7fb00-79c2-11ea-9117-b915256ae124.png)
 
 ## 기능 시연
-###책 올리기
+### 책 올리기
 ![uploadBook](https://user-images.githubusercontent.com/55645972/78771449-212ada80-79cb-11ea-9ceb-97e1defc916b.gif)
-###책 빌리기
+### 책 빌리기
 ![borrowRequest](https://user-images.githubusercontent.com/55645972/78771444-1ec88080-79cb-11ea-841a-e83ad02b56cb.gif)
-###대화하기
+### 대화하기
 ![borrowChat](https://user-images.githubusercontent.com/55645972/78771436-1c662680-79cb-11ea-8971-ed9159772607.gif)
-###반납요청
+### 반납요청
 ![returnRequestSend](https://user-images.githubusercontent.com/55645972/78771470-27b95200-79cb-11ea-8d2e-b349327c91a7.gif)
