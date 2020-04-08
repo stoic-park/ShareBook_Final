@@ -39,7 +39,7 @@
 ### 로그인
 ![signIn](https://user-images.githubusercontent.com/55645972/78778198-dd899e00-79d5-11ea-9335-1b34b3123bce.gif)
 ### 책 올리기
-![uploadBook](https://user-images.githubusercontent.com/55645972/78771449-212ada80-79cb-11ea-9ceb-97e1defc916b.gif)
+![ezgif com-resize](https://user-images.githubusercontent.com/55645972/78779900-c26c5d80-79d8-11ea-81b2-ee9e04910a7f.gif)
 ### 책 빌리기
 ![borrowRequest](https://user-images.githubusercontent.com/55645972/78778187-da8ead80-79d5-11ea-9424-649ca7896a12.gif)
 ### 대화하기
