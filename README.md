@@ -2,8 +2,6 @@
 
 ## 1. Intro
 
----
-
 ### " 우리 집에 한 번 읽고, 읽지 않는 책들을 가까운 이웃들과 공유하는 건 어떨까?"
 
 - **팀 명 :** five fingers
@@ -30,8 +28,7 @@
 
 이번 기회에 잠자고 있는 여러분의 책들을 꺼내 보면 어떨까요?
 ## 사용 스택
-
-
+![_2020-04-05_17-05-47](https://user-images.githubusercontent.com/55645972/78765254-b70e3780-79c2-11ea-8aea-ad27f718afca.png)
 
 ## 기능플로우
-
+![Untitled](https://user-images.githubusercontent.com/55645972/78765261-b8d7fb00-79c2-11ea-9117-b915256ae124.png)
