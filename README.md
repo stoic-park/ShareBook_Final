@@ -34,6 +34,8 @@
 ![Untitled](https://user-images.githubusercontent.com/55645972/78765261-b8d7fb00-79c2-11ea-9117-b915256ae124.png)
 
 ## 기능 시연
+![](https://sharebook-gifs.s3.ap-northeast-2.amazonaws.com/signIn.gif)
+![](https://sharebook-gifs.s3.ap-northeast-2.amazonaws.com/uploadBook.gif)
 ### 회원가입
 ![signUp](https://user-images.githubusercontent.com/55645972/78778203-debacb00-79d5-11ea-877e-62edfb0c95d3.gif)
 ### 로그인
